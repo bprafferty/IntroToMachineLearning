@@ -9,11 +9,10 @@ relationships within data columns. visualize.py is
 a great reference tool to see what kind of algorithms
 one should test based upon the statistical patterns.
 By running determineAlg.py afterwards, the scientist 
-can see test their hypothesis by running several 
+can test their hypothesis by running several 
 algorithms and come to a conclusion as to which works
-best for the data at hand. Lastly, run predict.py and
-only use the algorithm that proved most accurate to 
-create a model that predicts a variable based upon others.
+best for the data at hand. Lastly, run predict.py which
+only uses the algorithm that proved most accurate. 
 In this example, the type of flower is predicted based 
 upon the size of sepals and petals, which ultimately 
 yielded a 96.7 accuracy rating while using the Support
